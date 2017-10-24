@@ -1,0 +1,57 @@
+{
+  "_from": "github:x86kernel/react-native-action-button",
+  "_id": "react-native-action-button@2.8.1",
+  "_inBundle": false,
+  "_integrity": "sha1-DuswS9xVsP1eVbZkVB2msmwhSNo=",
+  "_location": "/react-native-action-button",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-action-button@github:x86kernel/react-native-action-button",
+    "name": "react-native-action-button",
+    "escapedName": "react-native-action-button",
+    "rawSpec": "github:x86kernel/react-native-action-button",
+    "saveSpec": "github:x86kernel/react-native-action-button",
+    "fetchSpec": null,
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:x86kernel/react-native-action-button#88e3af055d79f72dedf1df21adade101a77b78be",
+  "_spec": "react-native-action-button@github:x86kernel/react-native-action-button",
+  "_where": "/home/x86kernel/Work/socu-react-native",
+  "author": {
+    "name": "Yousef Kamawall"
+  },
+  "bugs": {
+    "url": "https://github.com/mastermoo/react-native-action-button/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "deprecated": false,
+  "description": "customizable multi-action-button component for react-native",
+  "homepage": "https://github.com/mastermoo/react-native-action-button",
+  "keywords": [
+    "react-native",
+    "action-button",
+    "float-button",
+    "multi-action-button"
+  ],
+  "license": "MIT",
+  "main": "ActionButton.js",
+  "name": "react-native-action-button",
+  "peerDependencies": {
+    "react-native": ">=0.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastermoo/react-native-action-button.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.8.1"
+}
